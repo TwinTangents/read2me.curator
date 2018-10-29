@@ -1,0 +1,9 @@
+{
+  "name": "read2me.curator",
+  "version": "1.0.0",
+  "description": "A tool for curating raw books into easily parseable formats",
+  "main": "lib/index.js",
+  "repository": "git@github.com:TwinTangents/read2me.curator.git",
+  "author": "Nick Ferraro <the.nick.ferraro@gmail.com>",
+  "license": "CC-BY-SA-4.0"
+}
