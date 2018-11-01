@@ -4,3 +4,5 @@ This repository provides tools and processes for parsing books into a format our
 
 ### To get started
 You will need a Jupyter Notebook with Javascript kernel installed. Run yarn install from the root of the repository to make sure you have all the tools necessary to start parsing a new book. Create a folder for your book under the projects/ folder and copy Template.ipynb into that folder. Rename the notebook to match the book's name. Happy parsing!
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
